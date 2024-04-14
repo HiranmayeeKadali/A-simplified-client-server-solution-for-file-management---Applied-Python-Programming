@@ -1,0 +1,9 @@
+login <client> <passwd>           Client Login
+register <client> <passwd>        Register Client
+list                              List Files or Folders
+change_folder <folder>            Change Folder
+read_file <file>                  Read File
+write_file <file> <content>       Append in File
+create_folder <folder>            Create Folder
+quit                              Quit Connection
+commands                          Help
